@@ -34,4 +34,4 @@ client.on('interactionCreate', async interaction => {
 	}
 });
 
-client.login(token)
+client.login(MTEwMjYxMDE5MDI0MDU4Nzc4Ng.GQJaO0.f-x-5Cs6vJKeCwjnS6Is-eK2rSi9lJwL5XQCVs)
